@@ -158,3 +158,14 @@ printf("Levenshtein Distance: %d\n", levenshtein_distance(X, Y));
 
 return 0; 
 }
+Sample Input and Output: - INPUT: sitten,kitten OUTPUT: Lvenshtein Distance : 1 INPUT: Book,Back OUTPUT: Lavenshtein Distance : 2
+
+Github Link : -
+
+Result: -
+
+The above code is executed successfully and the output verification is also verified successfully.
+
+Conclusion: -
+
+Overall, this code demonstrates how to implement the Levenshtein Distance algorithm using dynamic programming in C, showcasing string manipulation and the use of helper functions.
