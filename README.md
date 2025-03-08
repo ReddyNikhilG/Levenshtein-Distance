@@ -1,4 +1,4 @@
-# DSA-ASSESMENT
+# DSA
 DSA
 
 Levenshtein Distance
